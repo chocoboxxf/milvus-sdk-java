@@ -182,6 +182,7 @@ public class IndexParam {
         AUTOINDEX(11),
         SCANN(12),
         IVF_RABITQ(13),
+        AISAQ(14),
 
         // GPU indexes only for float vectors
         GPU_IVF_FLAT(50),
